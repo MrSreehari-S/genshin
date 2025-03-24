@@ -1,4 +1,4 @@
-import { useGSAP } from '@gsap/react'
+ { useGSAP } from '@gsap/react'
 import gsap from 'gsap'
 import { ScrollTrigger } from 'gsap/all'
 import React, { useEffect } from 'react'
